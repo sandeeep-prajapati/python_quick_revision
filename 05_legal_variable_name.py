@@ -1,0 +1,6 @@
+myvar = "John"
+my_var = "Sandeep"
+_my_var = "Mark"
+myVar = "Pradeep"
+MYVAR = "Hero"
+myvar2 = "coder"
